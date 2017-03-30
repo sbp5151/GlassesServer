@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScanCode</string>
+
+    <string name="dialog_title">提示</string>
+    <string name="dialog_msg">无法获取摄像头权限，请检查是否已经允许了摄像头权限。</string>
+    <string name="dialog_sure">确定</string>
+
+    <string name="conn">连接设备：</string>
+    <string name="success_msg">单击断开连接，双击返回桌面</string>
+
+    <string name="scan_string">请扫描手机上二维码连接</string>
+
+    <string name="bluetooth_matching_string">待目标设备确认匹配后，请再扫码一次</string>
+    <string name="bluetooth_conn_fail">蓝牙连接失败,请重新连接</string>
+    <string name="bluetooth_disconnected">蓝牙连接已断开</string>
+
+</resources>
